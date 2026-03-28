@@ -9,7 +9,7 @@ git clone https://github.com/NilayHair/Brain-Image-Filtering-system.git
 cd Brain-Image-Filtering-system
 pip install -r requirements.txt
 
-# fuke src demo
+# full src demo
 python src/file.py
 
 # Full pipeline demo (Allen Mouse Atlas)
